@@ -10,7 +10,7 @@
 - p32 注3 "C99s の構文をコピーした"
 -- C99 の後ろに s は必要?
 - p39 Column `auto f1 = function(int x) return x / 10.; ;`
--- DMD 2.063 でコンパイルできない
+-- DMD 2.063 ではコンパイルできない
 - p45 "short → int という直接変換" 
 -- ushort → int
 
